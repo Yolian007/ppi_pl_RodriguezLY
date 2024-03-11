@@ -1,37 +1,33 @@
 # ppi_pl_RodriguezLY
 
-Rastreo de flotas en tiempo real:
+# Rastreo de Flotas en Tiempo Real
 
-Descripción: Una aplicación que permite a las empresas de transporte rastrear sus flotas en tiempo real, proporcionando información sobre la ubicación actual de cada vehículo, la velocidad, el consumo de combustible, etc.
+## Descripción
 
-Justificación: Existe una gran demanda por parte de las empresas de transporte para optimizar la gestión de sus flotas, lo que les permite mejorar la eficiencia operativa y reducir costos.
+Este proyecto desarrolla una aplicación diseñada para empresas de transporte que desean rastrear sus flotas en tiempo real. Proporciona datos cruciales como la ubicación actual de cada vehículo, velocidad, consumo de combustible, y más, permitiendo una gestión de flota más eficiente y económica.
 
-Uso de las librerías:
+## Justificación
 
-NumPy: Para realizar cálculos rápidos y eficientes relacionados con la gestión de datos de ubicación y velocidad de los vehículos.
+La optimización de la gestión de flotas es una necesidad creciente para las empresas de transporte, buscando mejorar la eficiencia operativa y reducir los costos. Este proyecto surge como respuesta a esa demanda, ofreciendo una solución integral para el monitoreo en tiempo real de los vehículos.
 
-Pandas: Para el análisis y manipulación de datos en tiempo real de la flota, facilitando la generación de informes y estadísticas.
+## Uso de Librerías
 
-Matplotlib: Para visualizar gráficamente la ubicación de los vehículos en un mapa y mostrar tendencias y patrones de uso.
+- **NumPy**: Utilizada para realizar cálculos eficientes y rápidos relacionados con la gestión de los datos de ubicación y velocidad.
+- **Pandas**: Empleada para el análisis y manipulación de datos en tiempo real, facilitando la creación de informes y estadísticas.
+- **Matplotlib**: Permite visualizar la ubicación de los vehículos en un mapa, así como mostrar tendencias y patrones de uso.
+- **Scipy**: Usada para realizar análisis estadísticos avanzados y detectar posibles anomalías o patrones en los datos.
+- **Geopandas**: Maneja datos geoespaciales para la representación de rutas y realización de análisis espaciales.
 
-Scipy: Para realizar análisis estadísticos avanzados sobre los datos de la flota y detectar posibles anomalías o patrones de comportamiento.
+## Información Personal
 
-Geopandas: Para el manejo de datos geoespaciales, como la representación de rutas y la realización de análisis espaciales
+**Creador del Repositorio**: Linder Yolian Rodriguez Cortes
 
+**Formación**: Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia, sede Medellín. Miembro del semillero de ciberseguridad vinculado al grupo T&T.
 
-Informacion personal:
+**Conocimientos**: Python, React Native, FlutterFlow, JavaScript.
 
-Creador del repositorio: Linder Yolian Rodriguez Cortes.
+**Redes**:
+- [LinkedIn](www.linkedin.com/in/linder-yolian-rodriguez-cortes-05ba592b9)
+- [GitHub](https://github.com/Yolian007)
+- [Facebook](https://www.facebook.com/voy.lyrc/)
 
-Estudiante de la Universidad nacional de colombia sede Medellin.
-
-Carrera universitaria: Ingenieria de sistemas e informatica.
-
-Perteneciente al semillero de ciberseguridad vinculado al grupo T&T.
-
-Conocimientos en Python, react native, flutterflow y javascript.
-
-redes:
-linkedin: www.linkedin.com/in/linder-yolian-rodriguez-cortes-05ba592b9
-Github: https://github.com/Yolian007
-Facebook: https://www.facebook.com/voy.lyrc/
