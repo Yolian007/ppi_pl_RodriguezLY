@@ -3,7 +3,7 @@
 # Hola, soy [Linder Rodriguez]👋
 
 ## Sobre Mí
-Soy un freelancer especializado en [desarrollo de apps en diferentes plataformas]** Mi enfoque se centra en proporcionar soluciones de calidad y personalizadas que respondan a las necesidades específicas de mis clientes, asegurando siempre su satisfacción y superando sus expectativas.
+Soy un freelancer especializado en **desarrollo de apps en diferentes plataformas** Mi enfoque se centra en proporcionar soluciones de calidad y personalizadas que respondan a las necesidades específicas de mis clientes, asegurando siempre su satisfacción y superando sus expectativas.
 
 ## Colaboración
 Si estás buscando un profesional dedicado y comprometido para tu próximo proyecto, no dudes en contactarme. Me encantaría discutir cómo puedo contribuir al éxito de tu proyecto.
