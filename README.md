@@ -27,7 +27,7 @@ La optimización de la gestión de flotas es una necesidad creciente para las em
 **Conocimientos**: Python, React Native, FlutterFlow, JavaScript.
 
 **Redes**:
-- [LinkedIn](www.linkedin.com/in/linder-yolian-rodriguez-cortes-05ba592b9)
+- [LinkedIn] www.linkedin.com/in/linder-yolian-rodriguez-cortes-05ba592b9
 - [GitHub](https://github.com/Yolian007)
 - [Facebook](https://www.facebook.com/voy.lyrc/)
 
