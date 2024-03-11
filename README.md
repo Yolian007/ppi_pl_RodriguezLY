@@ -1,22 +1,22 @@
 # ppi_pl_RodriguezLY
 
-# Rastreo de Flotas en Tiempo Real
+# Hola, soy [Linder Rodriguez]👋
 
-## Descripción
+## Sobre Mí
+Soy un freelancer especializado en [desarrollo de apps en diferentes plataformas]** Mi enfoque se centra en proporcionar soluciones de calidad y personalizadas que respondan a las necesidades específicas de mis clientes, asegurando siempre su satisfacción y superando sus expectativas.
 
-Este proyecto desarrolla una aplicación diseñada para empresas de transporte que desean rastrear sus flotas en tiempo real. Proporciona datos cruciales como la ubicación actual de cada vehículo, velocidad, consumo de combustible, y más, permitiendo una gestión de flota más eficiente y económica.
+## Colaboración
+Si estás buscando un profesional dedicado y comprometido para tu próximo proyecto, no dudes en contactarme. Me encantaría discutir cómo puedo contribuir al éxito de tu proyecto.
 
-## Justificación
+## Contacto
+Puedes encontrarme y contactarme a través de:
 
-La optimización de la gestión de flotas es una necesidad creciente para las empresas de transporte, buscando mejorar la eficiencia operativa y reducir los costos. Este proyecto surge como respuesta a esa demanda, ofreciendo una solución integral para el monitoreo en tiempo real de los vehículos.
+**Redes**:
+- [LinkedIn] www.linkedin.com/in/linder-yolian-rodriguez-cortes-05ba592b9
+- [GitHub](https://github.com/Yolian007)
+- [Facebook](https://www.facebook.com/voy.lyrc/)
+- lirodriguezco@unal.edu.co
 
-## Uso de Librerías
-
-- **NumPy**: Utilizada para realizar cálculos eficientes y rápidos relacionados con la gestión de los datos de ubicación y velocidad.
-- **Pandas**: Empleada para el análisis y manipulación de datos en tiempo real, facilitando la creación de informes y estadísticas.
-- **Matplotlib**: Permite visualizar la ubicación de los vehículos en un mapa, así como mostrar tendencias y patrones de uso.
-- **Scipy**: Usada para realizar análisis estadísticos avanzados y detectar posibles anomalías o patrones en los datos.
-- **Geopandas**: Maneja datos geoespaciales para la representación de rutas y realización de análisis espaciales.
 
 ## Información Personal
 
@@ -24,10 +24,9 @@ La optimización de la gestión de flotas es una necesidad creciente para las em
 
 **Formación**: Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia, sede Medellín. Miembro del semillero de ciberseguridad vinculado al grupo T&T.
 
+
 **Conocimientos**: Python, React Native, FlutterFlow, JavaScript.
 
-**Redes**:
-- [LinkedIn] www.linkedin.com/in/linder-yolian-rodriguez-cortes-05ba592b9
-- [GitHub](https://github.com/Yolian007)
-- [Facebook](https://www.facebook.com/voy.lyrc/)
+
+Gracias por considerar mi perfil para tus proyectos. ¡Espero poder colaborar contigo pronto!
 
