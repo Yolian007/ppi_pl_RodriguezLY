@@ -1,6 +1,6 @@
 # ppi_pl_RodriguezLY
 
-# Hola, soy [Linder Rodriguez]👋
+# Hola, soy Linder Rodriguez👋
 
 ## Sobre Mí
 Soy un freelancer especializado en **desarrollo de apps en diferentes plataformas** Mi enfoque se centra en proporcionar soluciones de calidad y personalizadas que respondan a las necesidades específicas de mis clientes, asegurando siempre su satisfacción y superando sus expectativas.
@@ -12,7 +12,7 @@ Si estás buscando un profesional dedicado y comprometido para tu próximo proye
 Puedes encontrarme y contactarme a través de:
 
 **Redes**:
-- [LinkedIn] www.linkedin.com/in/linder-yolian-rodriguez-cortes-05ba592b9
+- [LinkedIn](www.linkedin.com/in/linder-yolian-rodriguez-cortes-05ba592b9)
 - [GitHub](https://github.com/Yolian007)
 - [Facebook](https://www.facebook.com/voy.lyrc/)
 - lirodriguezco@unal.edu.co
