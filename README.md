@@ -20,6 +20,9 @@ Puedes encontrarme y contactarme a través de:
 
 [Buy me a coffe](https://www.buymeacoffee.com/yolian)
 
+## Mis canales de freelancer son:
+- [freelancer](https://www.freelancer.com.co/u/Yolian007)
+- [Upwork](https://www.upwork.com/freelancers/~01c56d0167aff56423)
 
 ## Información Personal
 
