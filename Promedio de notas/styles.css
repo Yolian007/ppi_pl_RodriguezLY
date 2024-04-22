@@ -1,58 +1,68 @@
+/* Estilos básicos para el cuerpo de la página */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 20px;
-  }
-  
-  .container {
-    max-width: 600px;
-    margin: auto;
-    background-color: #fff;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  .input-group {
-    margin-bottom: 10px;
-  }
-  
-  .input-group label {
-    margin-right: 5px;
-  }
-  
-  .input-group input {
-    margin-right: 10px;
-    padding: 5px;
-    border: 1px solid #ccc;
-  }
-  
-  .button {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 10px 15px;
-    cursor: pointer;
-    background-color: #007bff;
-    border: none;
-    border-radius: 4px;
-    color: white;
-    text-align: center;
-  }
-  
-  #resultado {
-    margin-top: 20px;
-  }
-  
-  .eliminarNotaBtn {
-    background-color: #ff6347; /* Color rojo tomate para el botón de eliminar */
-    color: white;
-    border: none;
-    padding: 5px 10px;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  
-  .eliminarNotaBtn:hover {
-    background-color: #ff4500; /* Color rojo naranja al pasar el mouse */
-  }
+    font-family: Arial, sans-serif; /* Fuente uniforme para toda la página */
+    background-color: #f4f4f4; /* Color de fondo claro para toda la página */
+    margin: 0; /* Elimina los márgenes predeterminados */
+    padding: 20px; /* Añade un relleno general para la página */
+}
+
+/* Estilos para el contenedor principal */
+.container {
+    max-width: 600px; /* Anchura máxima para asegurar la legibilidad */
+    margin: auto; /* Centra el contenedor en la página */
+    background-color: #fff; /* Fondo blanco para el contenido principal */
+    padding: 20px; /* Relleno interno para separar el contenido de los bordes */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra sutil para un efecto elevado */
+}
+
+/* Estilos para grupos de entrada, usados para formularios */
+.input-group {
+    margin-bottom: 10px; /* Margen inferior para separar grupos de entrada */
+}
+
+/* Estilos para las etiquetas dentro de los grupos de entrada */
+.input-group label {
+    margin-right: 5px; /* Margen derecho para separar la etiqueta de la entrada */
+}
+
+/* Estilos para las entradas dentro de los grupos de entrada */
+.input-group input {
+    margin-right: 10px; /* Margen derecho para separar entradas */
+    padding: 5px; /* Relleno para hacer la entrada más fácil de usar */
+    border: 1px solid #ccc; /* Borde sutil para las entradas */
+}
+
+/* Estilos para botones usados en la aplicación */
+.button {
+    display: inline-block; /* Alinea el botón en línea con otros elementos */
+    margin-top: 10px; /* Margen superior para separar de otros contenidos */
+    padding: 10px 15px; /* Relleno para hacer el botón más grande y fácil de clickear */
+    cursor: pointer; /* Cambia el cursor a una mano para indicar que es clickeable */
+    background-color: #007bff; /* Color azul brillante para el botón */
+    border: none; /* Sin borde para un diseño más limpio */
+    border-radius: 4px; /* Bordes redondeados */
+    color: white; /* Texto blanco para contrastar con el fondo azul */
+    text-align: center; /* Alinea el texto al centro */
+}
+
+/* Estilos para la sección de resultados */
+#resultado {
+    margin-top: 20px; /* Margen superior para separar de otros contenidos */
+}
+
+/* Estilos específicos para botones de eliminar nota */
+.eliminarNotaBtn {
+    background-color: #ff6347; /* Color rojo tomate para distinguirlo como acción de eliminar */
+    color: white; /* Texto blanco para alto contraste */
+    border: none; /* Sin bordes para mantener la simplicidad */
+    padding: 5px 10px; /* Relleno suficiente para hacerlo fácil de clickear */
+    border-radius: 4px; /* Bordes redondeados */
+    cursor: pointer; /* Cursor en forma de mano para indicar interactividad */
+}
+
+/* Efecto hover para botones de eliminar, para una indicación visual al pasar el ratón */
+.eliminarNotaBtn:hover {
+    background-color: #ff4500; /* Color rojo naranja al pasar el mouse para mayor atención */
+}
+
   
