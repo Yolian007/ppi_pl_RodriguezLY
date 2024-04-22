@@ -8,6 +8,11 @@ Soy un freelancer especializado en **desarrollo de apps en diferentes plataforma
 ## Colaboración
 Si estás buscando un profesional dedicado y comprometido para tu próximo proyecto, no dudes en contactarme. Me encantaría discutir cómo puedo contribuir al éxito de tu proyecto.
 
+## Proyectos
+- [Optener promedio de notas](https://yolian007.github.io/Calcular-promedio/)
+- [Calculadora]()
+- [Temporizador]()
+
 ## Contacto
 Puedes encontrarme y contactarme a través de:
 
