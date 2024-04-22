@@ -1,46 +1,54 @@
+
+/* Establece la fuente, elimina los márgenes predeterminados, y configura el fondo con un gradiente de color. Alinea el contenido en el centro vertical y horizontalmente */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    height: 100vh;
-    background: linear-gradient(to bottom right, #85D8CE, #91A7FF);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    font-family: Arial, sans-serif; /* Usa Arial como la fuente primaria, con sans-serif como respaldo */
+    margin: 0; /* Elimina todos los márgenes predeterminados */
+    height: 100vh; /* Establece la altura del cuerpo para llenar la pantalla completa */
+    background: linear-gradient(to bottom right, #85D8CE, #91A7FF); /* Aplica un gradiente de color diagonal desde la esquina superior izquierda a la inferior derecha */
+    display: flex; /* Utiliza flexbox para alinear los elementos internos */
+    justify-content: center; /* Centra el contenido horizontalmente */
+    align-items: center; /* Centra el contenido verticalmente */
 }
 
+/* Configuración del contenedor principal: centrado, con fondo blanco, relleno, bordes redondeados y sombra */
 .container {
-    text-align: center;
-    background-color: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Alinea el texto al centro */
+    background-color: white; /* Establece el color de fondo a blanco */
+    padding: 20px; /* Agrega relleno alrededor del contenido interno */
+    border-radius: 10px; /* Redondea los bordes del contenedor */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Aplica una sombra para dar un efecto elevado */
 }
 
+/* Estilos para el encabezado h1 */
 h1 {
-    color: #333;
+    color: #333; /* Establece el color del texto a un gris oscuro */
 }
 
+/* Estilos comunes para el campo de entrada y el botón: márgenes, relleno y tamaño de fuente */
 #taskInput, button {
-    margin: 10px;
-    padding: 10px;
-    font-size: 16px;
+    margin: 10px; /* Añade un margen exterior */
+    padding: 10px; /* Añade un relleno interior */
+    font-size: 16px; /* Establece el tamaño de la fuente */
 }
 
+/* Estilos para la lista de tareas: sin estilo de lista, sin relleno */
 ul {
-    list-style: none;
-    padding: 0;
+    list-style: none; /* Elimina los puntos de la lista */
+    padding: 0; /* Elimina el relleno predeterminado */
 }
 
+/* Estilos para cada elemento de la lista */
 li {
-    margin: 5px;
-    padding: 10px;
-    background-color: #f4f4f4;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    margin: 5px; /* Espacio entre elementos de la lista */
+    padding: 10px; /* Relleno interior para cada elemento */
+    background-color: #f4f4f4; /* Color de fondo para cada elemento */
+    display: flex; /* Utiliza flexbox para alinear los elementos internos */
+    justify-content: space-between; /* Distribuye el espacio uniformemente entre los elementos */
+    align-items: center; /* Alinea los elementos verticalmente al centro */
 }
 
+/* Estilos para tareas completadas: texto tachado y color más claro */
 .completed {
-    color: #888;
-    text-decoration: line-through;
+    color: #888; /* Cambia el color del texto a gris claro */
+    text-decoration: line-through; /* Tacha el texto */
 }
