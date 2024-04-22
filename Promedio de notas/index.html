@@ -1,29 +1,35 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Calcular promedio</title>
-<link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcular promedio</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class="container">
-  <form id="notasForm">
-    <div id="notasContainer">
-      <div class="input-group">
-        <label>Nota:</label>
-        <input type="number" class="nota" required>
-        <label>Porcentaje:</label>
-        <input type="number" class="porcentaje" required>
-      </div>
+    <div class="container">
+        <!-- Formulario para la entrada de notas y porcentajes -->
+        <form id="notasForm">
+            <div id="notasContainer">
+                <div class="input-group">
+                    <!-- Entrada para la nota -->
+                    <label for="nota">Nota:</label>
+                    <input type="number" id="nota" class="nota" required>
+                    <!-- Entrada para el porcentaje -->
+                    <label for="porcentaje">Porcentaje:</label>
+                    <input type="number" id="porcentaje" class="porcentaje" required>
+                </div>
+            </div>
+            <!-- Botones para acciones del formulario -->
+            <button type="button" class="button" id="agregarNota">Agregar Calificación</button>
+            <button type="button" class="button" id="calcularPromedio">Calcular Calificación</button>
+            <button type="button" class="button" id="reiniciarCampos">Reiniciar Campos</button>
+            <!-- División para mostrar el resultado -->
+            <div id="resultado"></div>
+        </form>
     </div>
-    <div class="button" id="agregarNota">Agregar nota</div>
-    <div class="button" id="calcularPromedio">CALCULAR NOTA</div>
-    <div class="button" id="reiniciarCampos">REINICIAR CAMPOS</div>
-    <div id="resultado"></div>
-  </form>
-</div>
 
-<script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
+
