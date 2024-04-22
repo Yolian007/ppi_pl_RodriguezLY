@@ -10,8 +10,8 @@ Si estás buscando un profesional dedicado y comprometido para tu próximo proye
 
 ## Proyectos
 - [Optener promedio de notas](https://yolian007.github.io/Calcular-promedio/)
-- [Calculadora]()
-- [Temporizador]()
+- [Calculadora](https://calculadorapll01.000webhostapp.com)
+- [Temporizador](https://appcocina-3efxxmow5fsf7ua2orp5bd.streamlit.app)
 
 ## Contacto
 Puedes encontrarme y contactarme a través de:
