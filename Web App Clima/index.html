@@ -1,0 +1,30 @@
+<!-- Define el tipo de documento como HTML5 -->
+<!DOCTYPE html> 
+<!-- Elemento raíz del documento HTML -->
+<html>
+<head>
+    <!-- Título de la página -->
+    <title>App Clima</title> 
+    <!-- Enlace a la hoja de estilos externa -->
+    <link rel="stylesheet" type="text/css" href="style.css"> 
+    <!-- Asegura la correcta codificación de caracteres -->
+    <meta charset="UTF-8"> 
+</head>
+<body>
+    <!-- Contenedor principal -->
+    <div class="container"> 
+        <!-- Título principal de la aplicación -->
+        <h2>App Clima</h2> 
+        <!-- Campo de entrada para la ciudad -->
+        <input type="text" id="cityInput" placeholder="Ingresa una ciudad"> 
+        <!-- Campo de entrada para el código de país -->
+        <input type="text" id="countryInput" placeholder="Código de país (ej. ES para España)"> 
+        <!-- Botón para obtener el clima -->
+        <button onclick="getWeather()">Obtener Clima</button> 
+        <!-- Contenedor donde se mostrará la información del clima -->
+        <div id="weatherDisplay"></div> 
+    </div>
+    <!-- Enlace al archivo JavaScript -->
+    <script src="script.js"></script> 
+</body>
+</html>

@@ -1,0 +1,100 @@
+/* Estilo para todo el cuerpo del documento */
+body {
+    /* Fuente */
+    font-family: 'Arial', sans-serif;
+    /* Fondo gradiente */
+    background: linear-gradient(to right, #6dd5ed, #2193b0);
+    /* Color del texto */
+    color: #ffffff;
+    /* Alineación del texto */
+    text-align: center;
+    /* Espaciado interno */
+    padding: 20px;
+}
+
+/* Estilo para el contenedor principal */
+.container {
+    /* Ancho */
+    width: 90%;
+    /* Ancho máximo */
+    max-width: 400px;
+    /* Margen automático */
+    margin: auto;
+    /* Color de fondo con opacidad */
+    background-color: rgba(0, 0, 0, 0.6);
+    /* Espaciado interno */
+    padding: 20px;
+    /* Borde redondeado */
+    border-radius: 8px;
+    /* Sombra */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Estilo para los campos de entrada de texto */
+input[type="text"] {
+    /* Ancho */
+    width: 85%;
+    /* Espaciado interno */
+    padding: 10px;
+    /* Margen superior e inferior */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* Sin borde */
+    border: none;
+    /* Borde redondeado */
+    border-radius: 4px;
+    /* Tamaño de fuente */
+    font-size: 16px;
+}
+
+/* Estilo para los botones */
+button {
+    /* Ancho */
+    width: 90%;
+    /* Espaciado interno */
+    padding: 10px;
+    /* Color de fondo */
+    background-color: #22c1c3;
+    /* Sin borde */
+    border: none;
+    /* Borde redondeado */
+    border-radius: 5px;
+    /* Color del texto */
+    color: white;
+    /* Tamaño de fuente */
+    font-size: 16px;
+    /* Cursor */
+    cursor: pointer;
+    /* Transición */
+    transition: background-color 0.3s;
+}
+
+/* Estilo para el botón cuando se pasa el mouse sobre él */
+button:hover {
+    /* Cambio de color de fondo */
+    background-color: #159a9c;
+}
+
+/* Estilo para el contenedor donde se muestra la información del clima */
+#weatherDisplay {
+    /* Margen superior */
+    margin-top: 20px;
+    /* Espaciado interno */
+    padding: 10px;
+    /* Color de fondo con opacidad */
+    background-color: rgba(255, 255, 255, 0.2);
+    /* Borde redondeado */
+    border-radius: 5px;
+}
+
+/* Estilo para los encabezados de nivel 3 */
+h3 {
+    /* Margen inferior */
+    margin-bottom: 5px;
+}
+
+/* Estilo para los párrafos */
+p {
+    /* Margen */
+    margin: 5px 0;
+}
