@@ -1,76 +1,127 @@
+/* Estilo para todo el cuerpo del documento */
 body {
+    /* Fuente */
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to right, #f2d50f, #da0641); /* Un fondo con amarillo y rojo */
+    /* Fondo gradiente amarillo a rojo */
+    background: linear-gradient(to right, #f2d50f, #da0641);
+    /* Color del texto */
     color: #333;
+    /* Alineación del texto al centro */
     text-align: center;
+    /* Margen */
     margin: 0;
+    /* Espaciado interno */
     padding: 20px;
+    /* Altura igual al 100% de la altura visible del viewport */
     height: 100vh;
+    /* Establece el contenedor principal como un flex container */
     display: flex;
+    /* Dirección de los elementos flexibles */
     flex-direction: column;
+    /* Alineación vertical del contenido al centro */
     justify-content: center;
+    /* Alineación horizontal del contenido al centro */
     align-items: center;
 }
 
+/* Estilo para los encabezados */
 h1 {
-    color: #333333; /* Texto oscuro para contrastar con el fondo claro */
+    /* Color del texto oscuro */
+    color: #333333;
+    /* Margen inferior */
     margin-bottom: 20px;
 }
 
+/* Estilo para el tablero de juego */
 .board {
-    
+    /* Establece el contenedor del tablero como un grid container */
     display: grid;
+    /* Distribución de las columnas del grid */
     grid-template-columns: repeat(4, 1fr);
+    /* Espacio entre las celdas */
     gap: 15px;
+    /* Ancho máximo */
     max-width: 500px;
-    width: 100%;  /* Asegúrate de que el tablero tiene ancho */
-    height: 500px; /* Añade una altura específica si es necesario */
+    /* Ancho del tablero al 100% */
+    width: 100%;
+    /* Altura específica del tablero */
+    height: 500px;
+    /* Margen automático */
     margin: 20px auto;
-    
-    
 }
 
+/* Estilo para las cartas */
 .card {
-    background-color: #ffffff; /* Tarjetas blancas para alto contraste */
+    /* Color de fondo blanco */
+    background-color: #ffffff;
+    /* Altura de la carta */
     height: 100px;
+    /* Establece el contenido de la carta al centro */
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #333; /* Texto oscuro */
+    /* Color del texto oscuro */
+    color: #333;
+    /* Tamaño de fuente */
     font-size: 36px;
+    /* Borde redondeado */
     border-radius: 10px;
+    /* Cursor */
     cursor: pointer;
+    /* Transiciones */
     transition: transform 0.3s, background-color 0.3s;
 }
 
+/* Estilo para las cartas ocultas */
 .card.hidden {
+    /* Color de fondo gris */
     background-color: #9E9E9E;
+    /* Texto transparente */
     color: transparent;
 }
 
+/* Estilo para las cartas no ocultas */
 .card:not(.hidden) {
-    transform: scale(1.1); /* Efecto de escalado para resaltar la carta seleccionada */
-    background-color: #4CAF50; /* Verde para las tarjetas reveladas */
-    color: #ffffff; /* Texto blanco para contraste */
+    /* Efecto de escalado */
+    transform: scale(1.1);
+    /* Color de fondo verde */
+    background-color: #4CAF50;
+    /* Texto blanco */
+    color: #ffffff;
 }
 
+/* Estilo para los botones */
 button {
+    /* Espaciado interno */
     padding: 10px 20px;
+    /* Margen superior */
     margin-top: 20px;
+    /* Tamaño de fuente */
     font-size: 18px;
+    /* Color del texto blanco */
     color: #ffffff;
+    /* Color de fondo gris oscuro */
     background-color: #333;
+    /* Sin borde */
     border: none;
+    /* Borde redondeado */
     border-radius: 5px;
+    /* Cursor */
     cursor: pointer;
+    /* Transición */
     transition: background-color 0.2s;
 }
 
+/* Estilo para el botón al pasar el mouse sobre él */
 button:hover {
+    /* Cambio de color de fondo */
     background-color: #555;
 }
 
+/* Estilo para los párrafos */
 p {
-    color: #333333; /* Texto oscuro para mejor visibilidad */
+    /* Color del texto oscuro */
+    color: #333333;
+    /* Margen */
     margin: 10px 0;
 }
