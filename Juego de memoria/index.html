@@ -1,17 +1,29 @@
+<!-- Define el tipo de documento como HTML5 -->
 <!DOCTYPE html>
+<!-- Define el idioma del documento como español -->
 <html lang="es">
 <head>
+    <!-- Especifica la codificación de caracteres -->
     <meta charset="UTF-8">
+    <!-- Configura la vista para dispositivos móviles -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Título de la página -->
     <title>Juego de Memoria</title>
+    <!-- Enlace a la hoja de estilos externa -->
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <!-- Título principal del juego -->
     <h1>Juego de Memoria</h1>
+    <!-- Contenedor del tablero de juego -->
     <div id="game-board" class="board"></div>
+    <!-- Contador de tiempo del juego -->
     <p>Tiempo: <span id="timer">0</span> segundos</p>
+    <!-- Contador de intentos del juego -->
     <p>Intentos: <span id="attempts">0</span></p>
+    <!-- Botón para comenzar el juego -->
     <button onclick="startGame()">Comenzar Juego</button>
+    <!-- Enlace al archivo JavaScript -->
     <script src="script.js"></script>
 </body>
 </html>
