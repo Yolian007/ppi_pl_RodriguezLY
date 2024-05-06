@@ -13,6 +13,8 @@ Si estás buscando un profesional dedicado y comprometido para tu próximo proye
 - [Temporizador](https://appcocina-3efxxmow5fsf7ua2orp5bd.streamlit.app)
 - [Obtener promedio de notas](https://yolian007.github.io/Calcular-promedio/)
 - [Lista de tareas](https://yolian007.github.io/Lista-de-tareas/)
+- [Juago de memoria](https://yolianrodry.github.io/Juego-de-Memoria/)
+- [App clima](https://yolian007.github.io/ClimasApp/)
 
 ## Contacto
 Puedes encontrarme y contactarme a través de:
