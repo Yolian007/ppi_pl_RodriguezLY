@@ -1,0 +1,60 @@
+/* Estilos básicos para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+}
+
+/* Estilos para el contenedor principal */
+.container {
+    max-width: 800px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Estilos para el título principal */
+h1 {
+    text-align: center;
+}
+
+/* Estilos para el contenedor de noticias */
+.news-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Estilos para cada elemento de noticia */
+.news-item {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+/* Estilos para el título de cada noticia */
+.news-item h2 {
+    margin: 0 0 10px;
+    font-size: 18px;
+}
+
+/* Estilos para el párrafo de cada noticia */
+.news-item p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    color: #555;
+}
+
+/* Estilos para el enlace de cada noticia */
+.news-item a {
+    text-decoration: none;
+    color: #007BFF;
+    font-size: 14px;
+}
