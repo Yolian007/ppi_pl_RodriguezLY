@@ -21,3 +21,4 @@ Este proyecto es un visor de noticias que obtiene y muestra las noticias más re
 - Una clave API de Newsdata.io. Puedes obtener una registrándote en [Newsdata.io](https://newsdata.io/).
 
 ## Desplegado
+https://yolian007.github.io/Visor-Noticias/
